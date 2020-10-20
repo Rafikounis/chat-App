@@ -1,0 +1,12 @@
+{
+  "name": "trouveTesClopes2",
+  "displayName": "trouveTesClopes2",
+  "expo": {
+    "name": "trouveTesClopes2",
+    "slug": "trouveTesClopes2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
